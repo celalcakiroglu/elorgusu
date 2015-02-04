@@ -1,0 +1,42 @@
+.. Tensile Strain Capacity documentation master file, created by
+   sphinx-quickstart on Mon Mar 24 21:22:35 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Sahika Cakiroglu' nun El Orgusu ve Dantel Sayfasina Hos Geldiniz!
+======================================================
+
+
+
+Contents:
+
+.. toctree::
+   :maxdepth: 15
+
+   ReadExcelFromPython.rst
+   ColdBend.rst
+   DOE.rst
+   MachineLearning.rst
+   SiemensNX.rst
+   WebGL_Tri.rst
+   DigitalFilters.rst
+   FourierSeriesAndTransform.rst
+
+.. _35PercX65:
+.. figure:: dantel/HandePembe.jpg
+    :height: 4672px
+    :width: 3104 px
+    :scale: 35 %
+    :align: center
+
+.. container:: clearer
+
+   .. image :: spacer.png
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
