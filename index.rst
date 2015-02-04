@@ -26,7 +26,7 @@ Contents:
 .. figure:: dantel/HandePembe.jpg
     :height: 4672px
     :width: 3104 px
-    :scale: 20 %
+    :scale: 15 %
     :align: center
 
 .. container:: clearer
