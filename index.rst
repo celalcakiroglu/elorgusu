@@ -22,8 +22,8 @@ Contents:
    DigitalFilters.rst
    FourierSeriesAndTransform.rst
 
-.. _35PercX65:
-.. figure:: dantel/HandePembe.jpg
+.. _HandePembe:
+.. figure:: dantel/HandePembe.JPG
     :height: 4672px
     :width: 3104 px
     :scale: 15 %
