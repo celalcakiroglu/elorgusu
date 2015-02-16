@@ -13,14 +13,14 @@ Contents:
 .. toctree::
    :maxdepth: 15
 
-   ReadExcelFromPython.rst
-   ColdBend.rst
-   DOE.rst
-   MachineLearning.rst
-   SiemensNX.rst
-   WebGL_Tri.rst
-   DigitalFilters.rst
-   FourierSeriesAndTransform.rst
+   AcikYesil.rst
+   KoyuYesil.rst
+   Mavi1.rst
+   AcikSari1.rst
+   AcikPembe.rst
+   KoyuTuruncu.rst
+   KoyuKahve.rst
+   Eflatun1.rst
 
 .. _HandePembe:
 .. figure:: dantel/HandePembe.JPG
