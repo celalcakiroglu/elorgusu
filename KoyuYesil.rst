@@ -11,3 +11,5 @@ Koyu Yesil Dantel
 .. container:: clearer
 
    .. image :: spacer.png
+
+Merserize iplik ile örülmüş olan bu bluz motiflerin birleştirilmesi ile oluşuyor.Sekiz tane yuvarlak motifin ortalarında yine para denilen küçük motifler var.Her bir motifin ortası pul ve boncuk ile işlenmiştir. 
