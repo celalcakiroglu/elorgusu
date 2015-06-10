@@ -22,8 +22,8 @@ Contents:
    KoyuKahve.rst
    Eflatun1.rst
 
-.. _HandePembe:
-.. figure:: dantel/HandePembe.JPG
+.. _HandeMaviIndex:
+.. figure:: dantel/HandeMavi.JPG
     :height: 4672px
     :width: 3104 px
     :scale: 15 %
