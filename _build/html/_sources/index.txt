@@ -24,9 +24,9 @@ Contents:
 
 .. _HandeMaviIndex:
 .. figure:: dantel/HandeMavi.JPG
-    :height: 4672px
-    :width: 3104 px
-    :scale: 15 %
+    :height: 3104px
+    :width: 4672 px
+    :scale: 10 %
     :align: center
 
 .. container:: clearer
