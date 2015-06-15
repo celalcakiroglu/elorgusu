@@ -21,6 +21,7 @@ Contents:
    KoyuTuruncu.rst
    KoyuKahve.rst
    Eflatun1.rst
+   IMGP9987.rst
 
 .. _HandeMaviIndex:
 .. figure:: dantel/HandeMavi.JPG
