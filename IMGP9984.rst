@@ -1,0 +1,9 @@
+IMGP9984
+==================
+
+.. _IMGP9984:
+.. figure:: dantel/IMGP9984.JPG
+    :height: 4672px
+    :width: 3104 px
+    :scale: 15 %
+    :align: center
