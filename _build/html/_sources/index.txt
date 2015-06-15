@@ -21,6 +21,9 @@ Contents:
    KoyuTuruncu.rst
    KoyuKahve.rst
    Eflatun1.rst
+   IMGP9967.rst
+   IMGP9968.rst
+   IMGP9969.rst
    IMGP9970.rst
    IMGP9972.rst
    IMGP9973.rst
