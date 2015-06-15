@@ -1,0 +1,9 @@
+IMGP9982
+==================
+
+.. _IMGP9982:
+.. figure:: dantel/IMGP9982.JPG
+    :height: 3104px
+    :width: 4672 px
+    :scale: 15 %
+    :align: center
